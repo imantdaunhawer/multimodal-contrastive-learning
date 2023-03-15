@@ -1,0 +1,8 @@
+NLTK tokenizer, see https://github.com/nltk/nltk
+
+We provide the nltk English tokenizer here for convenience. It can also be
+downloaded using a python shell as follows:
+```
+import nltk
+nltk.download('punkt')
+```
