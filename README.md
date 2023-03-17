@@ -1,7 +1,7 @@
 # Identifiability Results for Multimodal Contrastive Learning
 
 Official code for the paper [Identifiability Results for Multimodal
-Contrastive Learning](https://openreview.net/forum?id=U_2kuqoTcB) presented at
+Contrastive Learning](https://arxiv.org/abs/2303.09166) presented at
 [ICLR 2023](https://iclr.cc/Conferences/2023). This repository contains
 pytorch code to reproduce the numerical simulation and the image/text
 experiment. The code to generate the image/text data from scratch is provided
